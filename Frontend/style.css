@@ -40,7 +40,7 @@ ul#nav li.current a {
 
 #nav {
     background-color: #49243E;
-    padding-right: 1250px;
+    padding-right: 1210px;
     margin:0%;
 }
 
@@ -56,4 +56,21 @@ section {
 footer {
     margin-top: 340px;
     background-color: #49243E;
+}
+
+#dam {
+    font-family: "raleway-heavy", sans-serif;
+}
+
+#but1 {
+    background-color: dodgerblue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#dw1 {
+    padding-bottom: 50px;
 }
